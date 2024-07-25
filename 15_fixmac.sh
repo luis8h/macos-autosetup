@@ -16,4 +16,6 @@ brew install font-hack-nerd-font
 brew install jq
 brew install font-sf-pro
 brew install --cask sf-symbols
+brew install font-sf-pro
+brew install --cask sf-symbols
 
