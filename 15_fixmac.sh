@@ -5,10 +5,11 @@ brew install --cask alfred
 
 brew install --cask karabiner-elements
 
-brew install koekeishiya/formulae/yabai
+# replaced with aerospace
+# brew install koekeishiya/formulae/yabai
+# brew install koekeishiya/formulae/skhd
 
-brew install koekeishiya/formulae/skhd
-
+# sketcybar
 brew tap FelixKratz/formulae
 brew install sketchybar
 brew tap homebrew/cask-fonts
@@ -19,3 +20,5 @@ brew install --cask sf-symbols
 brew install font-sf-pro
 brew install --cask sf-symbols
 
+# aerospace instead of yabai
+brew install --cask nikitabobko/tap/aerospace
