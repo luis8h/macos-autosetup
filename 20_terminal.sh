@@ -32,3 +32,5 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 brew tap homebrew/cask-fonts
 brew install --cask font-noto-color-emoji
 
+# aerospace
+brew install --cask nikitabobko/tap/aerospace
