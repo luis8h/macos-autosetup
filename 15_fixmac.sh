@@ -1,5 +1,10 @@
 #!/bin/bash
 
+# install cargo
+sudo chown ${USER}:staff ~/.bash_profile
+curl https://sh.rustup.rs -sSf | sh
+
+
 brew install --cask alfred
 # brew install --cask raycast
 
