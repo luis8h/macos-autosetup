@@ -6,3 +6,5 @@ brew install --cask obsidian
 
 # power management
 brew install --cask aldente
+
+brew install --cask flameshot
