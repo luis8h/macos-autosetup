@@ -4,7 +4,7 @@ brew install --cask spotify
 
 brew install --cask obsidian
 
-brew install rofi
+brew install --cask hammerspoon
 
 # power management
 brew install --cask aldente
