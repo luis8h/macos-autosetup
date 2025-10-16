@@ -28,6 +28,9 @@ brew install tmux
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 # brew install tpm
 
+# enable image pasting
+brew install pngpaste
+
 # for silicon plugin in nvim
 brew tap homebrew/cask-fonts
 brew install --cask font-noto-color-emoji
